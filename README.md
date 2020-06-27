@@ -1,7 +1,7 @@
 # Animation001.github.io
 Driving a vehicle using HTML,CSS,JS.
 to start/stop the vehicle - press ENTER.
-to on/off the lights  -press W.
+to on/off the lights  -press W ,while you run this code.
 
 
 
